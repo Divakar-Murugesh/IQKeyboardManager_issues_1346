@@ -1,7 +1,7 @@
 # IQKeyboardManager_issues_1346
 IQKeyboardManager_issues_1346
 
-Please download and check this issue.
+Please download(IQKeyboardManager_issues_1346.mov) and check this issue.
 
 fix this issue ASAP.
 
