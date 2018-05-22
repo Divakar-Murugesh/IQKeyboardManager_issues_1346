@@ -1,0 +1,2 @@
+# IQKeyboardManager_issues_1346
+IQKeyboardManager_issues_1346
